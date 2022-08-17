@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "hiddenmethod",
+      "type": "java.lang.String",
+      "description": "Description for hiddenmethod."
+  }
+] }
